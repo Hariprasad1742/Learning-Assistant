@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+requests
+markdown2
+fpdf

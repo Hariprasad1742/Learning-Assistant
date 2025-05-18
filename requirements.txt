@@ -3,3 +3,4 @@ PyMuPDF
 requests
 markdown2
 fpdf
+beautifulsoup4
